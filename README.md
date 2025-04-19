@@ -26,3 +26,5 @@ Task 4
 sudo wget 
 sudo dpkg -i
 sudo dpkg -r docker-ce-cli
+![Снимок экрана 2025-04-19 201118](https://github.com/user-attachments/assets/7bced999-c24d-4833-97a1-eb422bfc8d3f)
+![Снимок экрана 2025-04-19 200648](https://github.com/user-attachments/assets/d45a3626-f291-4d5a-ba80-8871e46f2ebc)
